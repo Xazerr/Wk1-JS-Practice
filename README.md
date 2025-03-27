@@ -4,11 +4,14 @@ This contains solutions to the Week 1 JavaScript practice problems.
 
 ## Challenges
 
-1. **Student Grade Generator** - `studentGradeGenerator.js`
+1. **Student Grade Generator** 
    - Prompts for student marks and returns corresponding grade
 
-2. **Speed Detector** - `speedDetector.js`
+2. **Speed Detector** 
    - Takes car speed and calculates demerit points
+
+3. **Net Salary Calculator** 
+   - Calculates net salary from basic salary and benefits
 
 ## How to Run
 1. Clone the repository
